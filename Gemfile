@@ -4,6 +4,6 @@ gem 'rails-controller-testing'
 gem 'spree', github: 'spree/spree', branch: 'main'
 gem 'spree_backend', github: 'spree/spree_backend', branch: 'main'
 gem 'spree_frontend', github: 'spree/spree_legacy_frontend', branch: 'main'
-gem 'activemerchant', github: "archetype2142/active-merchant"
+gem 'activemerchant', github: 'archetype2142/active-merchant'
 
 gemspec
